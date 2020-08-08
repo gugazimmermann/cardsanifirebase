@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010124947221",
+    "firebase_url": "https://cardsanimations.firebaseio.com",
+    "project_id": "cardsanimations",
+    "storage_bucket": "cardsanimations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010124947221:android:b912e8bc2907984fd4731c",
+        "android_client_info": {
+          "package_name": "com.cardsanifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010124947221-8abdi2npk7ct7jj2ifnu440kul9mp3fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuDobkYiu1DIYivSbJqo6eReJrj4Vqxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010124947221-8abdi2npk7ct7jj2ifnu440kul9mp3fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
